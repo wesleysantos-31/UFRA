@@ -1,4 +1,4 @@
-public class Praticas
+public class Calculos
 {
     public static void main(String[] args)
     {
